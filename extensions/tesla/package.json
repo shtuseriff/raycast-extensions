@@ -10,6 +10,10 @@
     "Fun"
   ],
   "license": "MIT",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
   "commands": [
     {
       "name": "viewCar",
@@ -191,8 +195,8 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.57.1",
-    "@raycast/utils": "^1.9.1",
+    "@raycast/api": "^1.104.25",
+    "@raycast/utils": "^1.19.1",
     "moment": "^2.29.4",
     "node-fetch": "^3.3.2"
   },

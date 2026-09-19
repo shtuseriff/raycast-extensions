@@ -1,5 +1,10 @@
 # Tesla Changelog
 
+## [Windows Support] - 2026-09-19
+
+- Added Windows to the supported platforms
+- Updated `@raycast/api` and `@raycast/utils` to current versions
+
 ## [Flash Fix] - 2024-12-03
 
 - Fixed screen flashing when view car command was refreshing
