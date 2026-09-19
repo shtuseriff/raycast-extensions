@@ -23,6 +23,13 @@
       "mode": "view"
     },
     {
+      "name": "carStatus",
+      "title": "Car Status",
+      "subtitle": "Tesla",
+      "description": "View a full status overview of your Tesla",
+      "mode": "view"
+    },
+    {
       "name": "turnClimateOn",
       "title": "Turn Climate On",
       "subtitle": "Tesla",
