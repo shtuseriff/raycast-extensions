@@ -2,7 +2,7 @@
 
 ## [Car Status Command] - 2026-09-19
 
-- Added a "Car Status" command: a single card with vehicle state (online/asleep/offline), activity (parked/driving with speed), battery and range, charging details, charge limit, climate (inside/outside temp), security, open doors/windows/trunks, odometer, tire pressures, software version/update, and last-updated time
+- Added a "Car Status" command: a full-width, sectioned overview of vehicle state (online/asleep/offline), activity (parked/driving with speed), battery and range, charging details, charge limit, climate (inside/outside temp), security, open doors/windows/trunks, odometer, tire pressures, software version/update, and last-updated time
 - Updated dev dependencies (`@types/react`, `@types/node`, `typescript`) to match the current `@raycast/api`
 
 ## [Windows Support] - 2026-09-19
