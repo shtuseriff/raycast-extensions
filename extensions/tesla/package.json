@@ -23,6 +23,13 @@
       "mode": "view"
     },
     {
+      "name": "carStatus",
+      "title": "Car Status",
+      "subtitle": "Tesla",
+      "description": "View a full status overview of your Tesla",
+      "mode": "view"
+    },
+    {
       "name": "turnClimateOn",
       "title": "Turn Climate On",
       "subtitle": "Tesla",
@@ -202,11 +209,11 @@
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
-    "@types/node": "18.8.3",
-    "@types/react": "18.0.9",
+    "@types/node": "22.19.17",
+    "@types/react": "19.0.10",
     "eslint": "^7.32.0",
     "prettier": "^2.5.1",
-    "typescript": "^4.4.3"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "build": "ray build -e dist",
