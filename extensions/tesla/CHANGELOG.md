@@ -4,6 +4,7 @@
 
 - Added Windows to the supported platforms
 - Updated `@raycast/api` and `@raycast/utils` to current versions
+- Fixed the Change Car Image picker not saving on Windows (replaced a misused `Action.SubmitForm` with a standard `Action`)
 
 ## [Flash Fix] - 2024-12-03
 
