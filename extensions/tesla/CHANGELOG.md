@@ -1,5 +1,11 @@
 # Tesla Changelog
 
+## [Windows Support] - {PR_MERGE_DATE}
+
+- Added Windows to the supported platforms
+- Updated `@raycast/api`, `@raycast/utils`, and dev dependencies (`@types/react`, `@types/node`, `typescript`) to current versions
+- Fixed the Change Car Image picker not saving on Windows (replaced a misused `Action.SubmitForm` with a standard `Action`)
+
 ## [Flash Fix] - 2024-12-03
 
 - Fixed screen flashing when view car command was refreshing
